@@ -1,0 +1,1 @@
+ALTER TABLE platform ADD COLUMN IF NOT EXISTS house_mint text NOT NULL DEFAULT '';

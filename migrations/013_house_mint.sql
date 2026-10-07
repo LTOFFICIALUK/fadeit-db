@@ -1,0 +1,1 @@
+ALTER TABLE platform ALTER COLUMN house_mint SET DEFAULT '';

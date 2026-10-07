@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "fake",
+    "ticker": "FAKE",
+    "name": "Fake coin",
+    "venue": "pumpfun",
+    "mint": "FakeMint111111111111111111111111111111111",
+    "pairAddress": null,
+    "imageUrl": "",
+    "priceUsd": 0.001,
+    "change1h": 0,
+    "mcapUsd": 1000,
+    "poolDepthUsd": 100,
+    "ageHours": 1,
+    "volume24hUsd": 10,
+    "comingSoon": true
+  }
+]

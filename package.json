@@ -1,0 +1,16 @@
+{
+  "name": "fadeit-db",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "migrate": "node scripts/migrate.mjs",
+    "seed": "node scripts/seed-local.mjs",
+    "start": "node scripts/migrate.mjs && node scripts/health.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "postgres": "^3.4.7"
+  }
+}
